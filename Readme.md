@@ -58,7 +58,7 @@ $ npm install socket.io --save
     ```sh
     $ node server.js
     ```
-3. Open this URL: http://localhost:3000 in a browser.
+3. Open this URL: http://localhost:3000 in a browser after the system printed out "Motion Connected" in the Terminal.
 
 ### Using the control panel 
 The control panel is built in a table form which consist of five rows. Each rows has it's own functionality. 
